@@ -30,7 +30,8 @@ To update, download the latest ZIP from **Releases**, remove the old version fro
 ---
 
 ## Screenshots
-*(add before/after screenshots here for clarity)*
+<img width="1920" height="1080" alt="dsqddqsdq" src="https://github.com/user-attachments/assets/ff61137b-8a3f-4831-a206-9860c92a0c0d" />
+
 
 ---
 
